@@ -1,0 +1,41 @@
+.etapa {
+	display: none;
+	}
+	
+.ativa {
+	display: block;
+}
+
+.pizza {
+	width: 25%;
+	float: left;
+	padding: 1%;
+}
+
+.qtd{
+	width: 30px;
+	height: 30px;
+}
+
+.pizza img{
+	width: 100%;
+}
+
+.painel_nav{
+	clear: both;
+}
+
+header{
+	background-image: url("../imgs/back.jpg");
+	height: 110px;
+}
+
+footer{
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	background-color: lightcoral;
+	font-size: 3em;
+	
+}
+
